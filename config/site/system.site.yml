@@ -1,0 +1,14 @@
+uuid: 022e2c96-36e9-4948-91dc-426f7a1c2b49
+name: 'Amy''s Drupal 8 Site'
+mail: admin@admin.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
